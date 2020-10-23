@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.0]
+
+- More options to style text
+- Style node titles with `title=bold,italic,left`
+- Style node bodys with `body=bold,italic,left`
+
 ## [1.2.0] - 2020-10-07
 
 - Fixed layout bug when using HIDDEN nodes
